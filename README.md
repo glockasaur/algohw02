@@ -15,4 +15,4 @@ Once I have found both the real and dummy key's probabilities; I called the OBST
 real and dummy key probabilities, as well as the length of the array/keys. 
 The OBST method will return a matrix of the root and also return the optimal cost of the tree.
 
-To execute the program, 
+To execute the program, clone this program. Then run the Main class. 
